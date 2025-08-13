@@ -1,4 +1,4 @@
-#Spatial Multi-Omics Domain Identification Methods[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+#Spatial Multi-Omics Domain Identification Methods
 
 > A curated set of spatial multi-omics domain identification methods and accompanying tutorials.
 
